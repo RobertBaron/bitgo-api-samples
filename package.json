@@ -1,0 +1,22 @@
+{
+  "name": "bitgo-api-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertBaron/bitgo-api-samples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertBaron/bitgo-api-samples/issues"
+  },
+  "homepage": "https://github.com/RobertBaron/bitgo-api-samples#readme",
+  "dependencies": {
+    "bitgo": "2.2.0"
+  }
+}
