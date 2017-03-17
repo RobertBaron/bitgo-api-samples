@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/RobertBaron/bitgo-api-samples#readme",
   "dependencies": {
-    "bitgo": "2.2.0"
+    "bitgo": "2.2.0",
+    "moment": "2.17.1"
   }
 }
